@@ -1,0 +1,2 @@
+# Resume-Classification
+Usually recruiters need time to do a resume screening. Here, I, hands on with pacmann.ai, made a small project, namely Resume Classification. From this Resume Classification, we try to make the resume screening process faster, so we just need to put this resume into the machine learning model, and this machine learning model will classify the resume into a category. However, this project still needs further development so that the classification results are more accurate. The classification using K-Neighbors Classifier.
